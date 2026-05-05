@@ -1,7 +1,3 @@
-Nama  : Fredy Ferari
-Kelas : 06TPLE008
-NIM   : 231011400390
-
 # Jawaban Nomor 2
 
 ---

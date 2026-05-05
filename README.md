@@ -8,7 +8,8 @@ Dalam menyusun tampilan ini, saya membagi layar menjadi tiga bagian utama agar t
 *   **Header (AppBar)** : Saya mendesain bagian atas yang profesional dengan memisahkan antara nama aplikasi "Workshop Kampus Kita" di sisi kiri, dan identitas user (Nama, NIM, serta status Mahasiswa) di sisi kanan dekat foto profil.
 *   **Filter Bar**: Tepat di bawah header, saya menyediakan baris tombol pilihan (ChoiceChip) untuk memfilter daftar workshop berdasarkan status kuotanya. hal ini bertujuan agar menyaring kuota workshop yang sudah penuh dan yang masih tersedia
 *   **Daftar Workshop** : Konten utama yang saya buat menggunakan kartu-kartu workshop yang disusun secara vertikal dari atas ke bawah menggunakan ListView. Di dalam setiap kartu, informasi disusun menggunakan kombinasi baris dan kolom. pada kartu tersebut sudah dibedakan mana judul, jadwal, jam, dan lokasi
-
+### Preview Aplikasi
+(PREVIEW.png)
 ---
 
 ### 2. Alasan Pemilihan Widget

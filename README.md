@@ -34,5 +34,7 @@ Fokus utama saya adalah membuat tampilan yang mudah dipahami tanpa harus membaca
 *   **Penggunaan Ikon** : Daripada menuliskan instruksi yang panjang, saya menggunakan ikon kalender, jam, dan lokasi. sebab otak manusia lebih cepat memproses simbol daripada teks, sehingga beban kognitif user berkurang.
 *   **Whitespace & Spacing** : Saya memberikan jarak yang cukup (padding) antar kartu dan elemen di dalamnya. Ruang kosong ini penting agar informasi tidak terlihat menumpuk dan user merasa nyaman saat melakukan browsing jadwal workshop.
 
+# Bentuk Kode flutter di implementasikan pada file main.dart
+
 ### Preview Aplikasi
 ![Tampilan Aplikasi](PREVIEW.png)
